@@ -1,7 +1,5 @@
 # Tutorial OneBitCode
 
-O que vamos Aprender?
-
 Como gerenciar as permissões de acesso no seu App Rails usando o Devise + CanCanCan.
 
 # Porque Aprender?
